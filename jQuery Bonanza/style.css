@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+div{
+
+   text-align: center;
+   padding: 20px;
+   margin: 20px;
+}
+button{
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color:rgb(222, 235, 223);
+    color:rgb(35, 35, 36);
+    border: 1px solid gray;
+    box-shadow: 2px 1px 5px;
+
+}
